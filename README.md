@@ -6,3 +6,14 @@
 
 ### Front 
 1. change the rendering method for new API
+
+----------------------
+
+# 2020-7-6
+
+### Service
+  1. fixed the wired cookie bug 
+  2. store the realtime page data summary to redis 
+   
+### Front
+  1. change the realtime page's summary API  
