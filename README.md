@@ -16,4 +16,12 @@
   2. store the realtime page data summary to redis 
    
 ### Front
-  1. change the realtime page's summary API  
+  1. change the realtime page's summary API 
+
+# 2020-7-7
+
+### Service
+  1.make the comments in the code specifications
+
+### Front
+  1.fix the icon , horizontal and vertical font colors in the history page
