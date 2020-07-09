@@ -40,3 +40,13 @@
   1. add a global lightweight toast component
   2. add the login toast and logout toast
   3. add a login failure type prompt
+
+# 2020-7-9
+
+### Service
+  1. add a development environment profile
+  2. delete temporary data pretexts and corresponding classes from the original version
+
+### Front 
+  1. add a parameter list to the history data page make it get a single chart based on the parameters
+  2. add a judgment mechanism to get the down sample list according to the time interval
